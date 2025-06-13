@@ -1,0 +1,30 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.brfkar</groupId>
+  <artifactId>TC.lib</artifactId>
+  <version>4.1.0</version>
+  <name>IVCT Test Case Library</name>
+  <description>Library to be used by IVCT test case developers</description>
+<!--  so far tested  -->
+  <url>https://github.com/brfkar/pelltest/tree/main/TC.lib</url>
+  <developers>
+     <developer>
+       <id>brfkar</id>
+       <name>brfkar</name>
+       <email>summbarkar@online.de</email>
+     </developer>
+  </developers>
+<!--   -->
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+     </license>
+   </licenses>
+<!--   -->
+  <scm>
+    <connection>scm:git:https://github.com/brfkar/pelltest/tree/main/TC.lib</connection>
+    <developerConnection>scm:git:https://github.com/brfkar/pelltest/tree/main/TC.lib</developerConnection>
+    <url>https://github.com/brfkar/pelltest/tree/main/TC.lib</url>
+  </scm>
+</project>
